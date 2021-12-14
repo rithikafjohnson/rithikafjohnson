@@ -7,13 +7,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rithikafjohnson)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
-## 🚀 Languages and Tools:
-
-
-
 ## Connect with me:
 <p align="left">
 
