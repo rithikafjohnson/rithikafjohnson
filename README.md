@@ -2,7 +2,7 @@
 <a href="#" > <p> &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp; <img  width="25%" height="auto" src="https://media.istockphoto.com/vectors/teenage-girk-working-on-computer-in-classroom-vector-id1150453750?k=20&m=1150453750&s=612x612&w=0&h=1_UuOCVWdUbtJ09MKzBSXZrK65MmzEZq7rzLSi4WKDU=" height="175px"/></a> </p>
 </center>
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br> This is Rithika!</h1>
-<h3 align="center">I'm a Machine Learning enthusiast. I enjoy investigating new ideas and methods. At present, I'm trying to delve deep into different image processing technologies.</h3>
+<h3 align="center">I'm a Machine Learning enthusiast. I enjoy investigating new ideas and methods. At present, I work as a Data Analyst at S&P Global.</h3>
 
 ## Connect with me:
 <p align="left">
